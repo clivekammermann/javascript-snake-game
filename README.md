@@ -27,7 +27,7 @@
 * inline the code for the food
 * explain how the food is built
 
-## Make the snake move
+## Make not the snake move
 15min
 
 * inline the code for the snake to move
